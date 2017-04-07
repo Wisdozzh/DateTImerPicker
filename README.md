@@ -6,5 +6,5 @@
 
 ----------------------------
 [csdn]:http://blog.csdn.net/zzh_receive/ "我的博客"
-[datetimepicker1]:https://github.com/Wisdozzh/DateTImerPicker/raw/master/img/DateTimerPicker1.gif
-[datetimepicker2]:https://github.com/Wisdozzh/DateTImerPicker/raw/master/img/DateTimerPicker2.gif
+[datetimerpicker1]:https://github.com/Wisdozzh/DateTImerPicker/raw/master/img/DateTimerPicker1.gif
+[datetimerpicker2]:https://github.com/Wisdozzh/DateTImerPicker/raw/master/img/DateTimerPicker2.gif
